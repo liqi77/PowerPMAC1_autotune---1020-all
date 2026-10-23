@@ -23,3 +23,28 @@ G:\08-项目\02-四维调整平台-2026\PMacLearn\obj\Debug\PMacLearn.exe.config
 G:\08-项目\02-四维调整平台-2026\PMacLearn\obj\Debug\PMacLearn.csproj.Up2Date
 G:\08-项目\02-四维调整平台-2026\PMacLearn\bin\Debug\pictures\green.png
 G:\08-项目\02-四维调整平台-2026\PMacLearn\bin\Debug\pictures\red.png
+F:\03project\2026\autotune\PowerPMAC1_autotune - 1020-all\PMacLearn_desk_autotune\obj\Debug\PMacLearn.csproj.AssemblyReference.cache
+F:\03project\2026\autotune\PowerPMAC1_autotune - 1020-all\PMacLearn_desk_autotune\obj\Debug\PMacLearn.exe.config
+F:\03project\2026\autotune\PowerPMAC1_autotune - 1020-all\PMacLearn_desk_autotune\obj\Debug\PMacLearn.exe
+F:\03project\2026\autotune\PowerPMAC1_autotune - 1020-all\PMacLearn_desk_autotune\obj\Debug\PMacLearn.pdb
+F:\03project\2026\autotune\PowerPMAC1_autotune - 1020-all\PMacLearn_desk_autotune\bin\Debug\pictures\green.png
+F:\03project\2026\autotune\PowerPMAC1_autotune - 1020-all\PMacLearn_desk_autotune\bin\Debug\pictures\red.png
+F:\03project\2026\autotune\PowerPMAC1_autotune - 1020-all\PMacLearn_desk_autotune\bin\Debug\PMacLearn.exe.config
+F:\03project\2026\autotune\PowerPMAC1_autotune - 1020-all\PMacLearn_desk_autotune\bin\Debug\PMacLearn.exe
+F:\03project\2026\autotune\PowerPMAC1_autotune - 1020-all\PMacLearn_desk_autotune\bin\Debug\PMacLearn.pdb
+F:\03project\2026\autotune\PowerPMAC1_autotune - 1020-all\PMacLearn_desk_autotune\bin\Debug\Ninject.dll
+F:\03project\2026\autotune\PowerPMAC1_autotune - 1020-all\PMacLearn_desk_autotune\bin\Debug\ODT.Common.dll
+F:\03project\2026\autotune\PowerPMAC1_autotune - 1020-all\PMacLearn_desk_autotune\bin\Debug\ODT.PMACGlobal.dll
+F:\03project\2026\autotune\PowerPMAC1_autotune - 1020-all\PMacLearn_desk_autotune\bin\Debug\ODT.PowerPmacBuildAndDownload.dll
+F:\03project\2026\autotune\PowerPMAC1_autotune - 1020-all\PMacLearn_desk_autotune\bin\Debug\ODT.PowerPmacComLib.dll
+F:\03project\2026\autotune\PowerPMAC1_autotune - 1020-all\PMacLearn_desk_autotune\bin\Debug\Power_PMAC_COM.dll
+F:\03project\2026\autotune\PowerPMAC1_autotune - 1020-all\PMacLearn_desk_autotune\bin\Debug\PPGatherControl.dll
+F:\03project\2026\autotune\PowerPMAC1_autotune - 1020-all\PMacLearn_desk_autotune\bin\Debug\PPMAC460CompileProcess.dll
+F:\03project\2026\autotune\PowerPMAC1_autotune - 1020-all\PMacLearn_desk_autotune\bin\Debug\PPMAC460CompileTask.dll
+F:\03project\2026\autotune\PowerPMAC1_autotune - 1020-all\PMacLearn_desk_autotune\bin\Debug\Prism.dll
+F:\03project\2026\autotune\PowerPMAC1_autotune - 1020-all\PMacLearn_desk_autotune\bin\Debug\Renci.SshNet.dll
+F:\03project\2026\autotune\PowerPMAC1_autotune - 1020-all\PMacLearn_desk_autotune\obj\Debug\PMacLearn.Form1.resources
+F:\03project\2026\autotune\PowerPMAC1_autotune - 1020-all\PMacLearn_desk_autotune\obj\Debug\PMacLearn.Properties.Resources.resources
+F:\03project\2026\autotune\PowerPMAC1_autotune - 1020-all\PMacLearn_desk_autotune\obj\Debug\PMacLearn.csproj.GenerateResource.cache
+F:\03project\2026\autotune\PowerPMAC1_autotune - 1020-all\PMacLearn_desk_autotune\obj\Debug\PMacLearn.csproj.CoreCompileInputs.cache
+F:\03project\2026\autotune\PowerPMAC1_autotune - 1020-all\PMacLearn_desk_autotune\obj\Debug\PMacLearn.csproj.Up2Date

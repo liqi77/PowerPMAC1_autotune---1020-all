@@ -287,7 +287,7 @@ namespace PMacLearn
         /// </summary>
         public void powerPamcConnectInit()
         {
-            currentDevProp.IPAddress = "192.168.0.200";
+            currentDevProp.IPAddress = "172.20.0.200";  //172.20.0.200  192.168.0.200
             currentDevProp.PortNumber = Convert.ToInt16("23");
             currentDevProp.User = "root";
             currentDevProp.Password = "deltatau";
